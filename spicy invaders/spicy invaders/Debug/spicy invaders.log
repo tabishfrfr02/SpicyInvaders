@@ -1,0 +1,3 @@
+﻿  spicy invaders.cpp
+C:\Users\786\Desktop\spicy invaders finale\spicy invaders finale\spicy invaders\spicy invaders\spicy invaders.cpp(2838,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  spicy invaders.vcxproj -> C:\Users\786\Desktop\spicy invaders finale\spicy invaders finale\spicy invaders\Debug\spicy invaders.exe
