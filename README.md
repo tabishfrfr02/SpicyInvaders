@@ -44,7 +44,7 @@ Enemy waves, power-ups, an EMP mechanic, explosion animations, and a three-boss 
 
 1. **Clone or download this repository**
    ```
-   git clone https://github.com/YOUR_USERNAME/SpicyInvaders.git
+   git clone https://github.com/tabishfrfr02/SpicyInvaders.git
    ```
    Or click **Code → Download ZIP** and extract it.
 
